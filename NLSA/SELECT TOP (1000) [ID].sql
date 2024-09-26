@@ -1,0 +1,8 @@
+SELECT TOP (1000) [ID]
+      ,[Employee_number]
+      ,[Full_Name]
+      ,[Email_address]
+      ,[Telephone]
+      ,[Mobile_number]
+      ,[Password]
+  FROM [nlsa-PMF].[dbo].[Users]
